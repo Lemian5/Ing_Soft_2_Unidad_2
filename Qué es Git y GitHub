@@ -1,0 +1,41 @@
+Qué es Git
+Git es un sistema de control de versiones distribuido, como habíamos indicado en el punto anterior, cuyo principal objetivo es ayudar en el desarrollo de cualquier tipo de aplicación manteniendo una gran cantidad de código de un gran número de programadores diferentes.
+Esta herramienta fue impulsada por Linux Torvalds y el equipo de desarrollo del Kernel de Linux, que al igual que este sistema operativo, lo lanzaron como código abierto, además de encontrárnoslo para las distintas plataformas del mercado. Para hacer uso de ella, lo único que debemos hacer es instalar en nuestro sistema la versión correspondiente al sistema operativo que estemos utilizando.
+Podemos encontrar una gran diferencia del uso de Git respecto a otras herramientas similares. La primera de ella es que mientras que otros sistemas almacenan archivos originales, conservando una lista de los cambios realizados, Git guarda un snapshot del estado de cada archivo. Si el archivo no ha cambiado, no crea una nueva copia, sino que crea una referencia al archivo original.
+Con todo esto, Git nos aporta:
+•	Auditoría completa del código, sabiendo en todo momento quién ha tocado algo, cuándo y qué.
+•	Control sobre cómo ha ido cambiando nuestro proyecto con el paso del tiempo.
+•	Volver uno o más pasos hacia atrás de forma rápida.
+•	Control de versiones del proyecto por medio de etiquetas.
+•	Seguridad, ya que todas las estructuras internas de datos irán cifradas con el algoritmo SHA1.
+
+¿Qué es GitHub?
+Muchas personas pueden pensar que Git y GitHub son lo mismo, ya que la mayoría de las ocasiones están estrechamente relacionadas, pero a la hora de la verdad, son cosas totalmente distintas.
+GitHub se puede definir como un servidor donde alojar los repositorios de los proyectos, añadiendo funcionalidades extra para la gestión del proyecto y del código fuente. A diferencia del proyecto Git, éste se trata de un servicio comercial ya que, aunque tiene una parte pública gratuita, cuenta con la desventaja de que todo el código que subamos estará disponible para cualquier persona. Si queremos decidir quién puede tener acceso a nuestro repositorio, entonces sería necesario pasarse a la modalidad de pago.
+
+Entre las principales características que nos ofrece GitHub podemos destacar:
+•	Una Wiki que opera con Git para el mantenimiento de las distintas versiones de las páginas.
+•	Sistema de seguimiento de problemas. Se trata de un sistema muy parecido al tradicional ticket, donde cualquier miembro del equipo o persona (si nuestro repositorio es público) puede abrir una consulta o sugerencia que se quiera hacer.
+•	Herramienta de revisión de código. Permite añadir anotaciones en cualquier punto de un fichero.
+•	Visor de ramas que permite comparar los progresos realizados en las distintas ramas de nuestro repositorio.
+Control de versiones: Git y GitHub
+Un sistema de control de versiones es una herramienta capaz de registrar todos los cambios que se realizan en uno o más proyectos, guardando a su vez versiones anteriores del proyecto, versiones a las que podemos acudir en caso de haber metido la pata o al no funcionar de la forma correcta.
+El uso de control de versiones no es algo nuevo, sino que se viene utilizando desde hace muchos años, aunque no de la forma en la que se puede hacer en la actualidad, y es que todo el mundo, alguna vez ante un cambio en el código de un proyecto, ha sacado copia del archivo en un directorio para volver al estado anterior en caso de que fallen los cambios. Ésta precisamente la principal ventaja que ofrecen los sistemas de control de versiones actuales.
+
+
+Clasificación de los sistemas de control de versiones
+Dentro del campo de control de versiones, nos podemos encontrar de distintos tipos. Veamos a continuación una clasificación de los más importantes.
+•	Sistemas de control de versiones locales
+Uno de los métodos más utilizados por la gente a la hora de realizar algún tipo de control de versión de sus cambios, consistía en copiar en un directorio de su equipo local el archivo que iba a ser modificado indicando la fecha de modificación, para que en caso de error se supiese cuál era la última versión guardada.
+
+
+Referencias: 
+
+https://www.acens.com/comunicacion/white-papers/control-versiones-git-github/  
+Copyright © 1997-2022 acens Technologies, S.L.U 
+
+
+https://desarrolloweb.com/manuales/manual-de-git.html
+
+
+https://desarrolloweb.com/articulos/curso-git.html
