@@ -1,4 +1,5 @@
 
+
 Realice la siguiente actividad de forma individual o grupal:
 
 (30%) Investigue sobre 2 herramientas de GCS existentes y describa cómo implementan el control de versiones, de cambios y de objetos de configuración en general.
@@ -10,3 +11,4 @@ IMPORTANTE:
 1. Tener en cuenta el material de apoyo que se encuentra en la carpeta de Recursos de aprendizaje
 2. Utilizar la norma APA
 3. Instale las herramientas y explore sus funcionalidades, evite pegar imágenes de internet
+
