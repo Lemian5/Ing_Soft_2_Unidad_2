@@ -1,0 +1,12 @@
+
+Realice la siguiente actividad de forma individual o grupal:
+
+(30%) Investigue sobre 2 herramientas de GCS existentes y describa cómo implementan el control de versiones, de cambios y de objetos de configuración en general.
+(30%) Anexe imágenes sobre las interfaces de las aplicaciones y explique sus funcionalidades a partir de los iconos de la aplicación.
+(40%) Documente de manera detallada un ejemplo de cómo se utiliza la aplicación - caso aplicado con GIT y Github, no tomar un caso de internet y copiarlo.
+Entregar el documento en formato  PDF marcado de la siguiente manera ej: CarlosMarín.pdf (Primer nombre y primer apellido), el documento no debe exceder las 32 páginas sin contar con la portada.
+
+IMPORTANTE:
+1. Tener en cuenta el material de apoyo que se encuentra en la carpeta de Recursos de aprendizaje
+2. Utilizar la norma APA
+3. Instale las herramientas y explore sus funcionalidades, evite pegar imágenes de internet
